@@ -1,0 +1,14 @@
+[
+    {
+        "livro": "bbb",
+        "emprestado_para": "Fael",
+        "emprestado_de": "",
+        "devolvido": true
+    },
+    {
+        "livro": "qqq",
+        "emprestado_para": "rafael",
+        "emprestado_de": "lucyane",
+        "devolvido": false
+    }
+]

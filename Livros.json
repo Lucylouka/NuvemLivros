@@ -1,0 +1,110 @@
+[
+    {
+        "titulo": "bbb",
+        "autor": "bbb",
+        "genero": "bb",
+        "status": "Lido",
+        "avaliacao": 9,
+        "anotacoes": "b",
+        "citacoes": "b"
+    },
+    {
+        "titulo": "bbb",
+        "autor": "bbb",
+        "genero": "bb",
+        "status": "Lido",
+        "avaliacao": 9,
+        "anotacoes": "b",
+        "citacoes": "b"
+    },
+    {
+        "titulo": "qqq",
+        "autor": "qqq",
+        "genero": "qqq",
+        "status": "Lendo",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "qqq",
+        "autor": "qqq",
+        "genero": "qqq",
+        "status": "Lendo",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "www",
+        "autor": "www",
+        "genero": "www",
+        "status": "Lido",
+        "avaliacao": 2,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "www",
+        "autor": "www",
+        "genero": "www",
+        "status": "Lido",
+        "avaliacao": 2,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "eee",
+        "autor": "ee",
+        "genero": "eee",
+        "status": "Quero Ler",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "kkk",
+        "autor": "fff",
+        "genero": "aaa",
+        "status": "Lendo",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "kkk",
+        "autor": "fff",
+        "genero": "aaa",
+        "status": "Lendo",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "abc",
+        "autor": "c",
+        "genero": "c",
+        "status": "Lido",
+        "avaliacao": 10,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "abc",
+        "autor": "c",
+        "genero": "c",
+        "status": "Lido",
+        "avaliacao": 10,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "rrr",
+        "autor": "rrr",
+        "genero": "aaa",
+        "status": "Em andamento",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    }
+]
